@@ -27,4 +27,4 @@ I work in security operations — threat detection, incident response, and build
 
 ---
 
-<sub>Belgium · infosec · probably staring at Wireshark right now</sub>
+<sub>Belgium · infosec · probably staring at a code editor right now</sub>
