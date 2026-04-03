@@ -10,7 +10,7 @@ SOC Engineer · Security Researcher · Tool Developer
 
 ---
 
-I work in security operations — threat detection, incident response, and building the tools that make the work faster. I spend most of my time between a SIEM console and a code editor.
+I work in security operations - threat detection, incident response, and building the tools that make the work faster. I spend most of my time between a SIEM console and a code editor.
 
 **Day job:** SOC analyst work. Triaging alerts, hunting threats, writing detection rules, digging through logs until something clicks.
 
