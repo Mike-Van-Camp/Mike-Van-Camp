@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mike Van Camp
 
-<!--
-**Mike-Van-Camp/Mike-Van-Camp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools — mostly for security and analysis. Currently focused on PDF forensics and media processing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[pdetectif](https://github.com/Mike-Van-Camp/pdetectif)** · Python  
+Pure-Python PDF security scanner. No external dependencies. Detects malicious patterns, calculates entropy, extracts JavaScript, URIs, and embedded files. Outputs risk scores and supports JSON for piping into other tools.
+
+**[mediastrings](https://github.com/Mike-Van-Camp/mediastrings)** · Go  
+OCR library for extracting text from images and video frames. Wraps Tesseract and Azure Computer Vision behind a clean interface.
+
+---
+
+### Stack
+
+`Python` · `Go` · `Bash`  
+Comfortable with binary formats, parsers, and anything that involves reading things that weren't meant to be read.
+
+---
+
+### CTF / Research
+
+I document challenge writeups under [writeups/TryHackMe](https://github.com/Mike-Van-Camp/writeups). Mostly focused on the forensics and reverse engineering categories.
