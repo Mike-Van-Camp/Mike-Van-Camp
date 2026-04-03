@@ -1,26 +1,30 @@
-# Mike Van Camp
+```
+ __  __ _ _        __   __            ___
+|  \/  (_) |_____  \ \ / /_ _ _ _    / __|__ _ _ __  _ __
+| |\/| | | / / -_)  \ V / _` | ' \  | (__/ _` | '  \| '_ \
+|_|  |_|_|_\_\___|   \_/\__,_|_||_|  \___\__,_|_|_|_| .__/
+                                                     |_|
+```
 
-I build tools — mostly for security and analysis. Currently focused on PDF forensics and media processing.
-
----
-
-### Projects
-
-**[pdetectif](https://github.com/Mike-Van-Camp/pdetectif)** · Python  
-Pure-Python PDF security scanner. No external dependencies. Detects malicious patterns, calculates entropy, extracts JavaScript, URIs, and embedded files. Outputs risk scores and supports JSON for piping into other tools.
-
-**[mediastrings](https://github.com/Mike-Van-Camp/mediastrings)** · Go  
-OCR library for extracting text from images and video frames. Wraps Tesseract and Azure Computer Vision behind a clean interface.
+SOC Engineer · Security Researcher · Tool Developer
 
 ---
 
-### Stack
+I work in security operations — threat detection, incident response, and building the tools that make the work faster. I spend most of my time between a SIEM console and a code editor.
 
-`Python` · `Go` · `Bash`  
-Comfortable with binary formats, parsers, and anything that involves reading things that weren't meant to be read.
+**Day job:** SOC analyst work. Triaging alerts, hunting threats, writing detection rules, digging through logs until something clicks.
+
+**Side of the desk:** Writing security tools. I like building things that solve actual problems I run into during investigations — scanners, parsers, automation for the tedious parts.
+
+**After hours:** CTFs, malware analysis, and the occasional deep dive into something I probably shouldn't be reading.
 
 ---
 
-### CTF / Research
+#### Where to find me
 
-I document challenge writeups under [writeups/TryHackMe](https://github.com/Mike-Van-Camp/writeups). Mostly focused on the forensics and reverse engineering categories.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mike-van-camp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mike-Van-Camp)
+
+---
+
+<sub>Belgium · infosec · probably staring at Wireshark right now</sub>
